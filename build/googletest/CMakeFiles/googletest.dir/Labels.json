@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/ajchler/ivs/project1/assignment/build/googletest/CMakeFiles/googletest"
+		},
+		{
+			"file" : "/home/ajchler/ivs/project1/assignment/build/googletest/CMakeFiles/googletest.rule"
+		},
+		{
+			"file" : "/home/ajchler/ivs/project1/assignment/build/googletest/CMakeFiles/googletest-complete.rule"
+		},
+		{
+			"file" : "/home/ajchler/ivs/project1/assignment/build/googletest/googletest-prefix/src/googletest-stamp/googletest-install.rule"
+		},
+		{
+			"file" : "/home/ajchler/ivs/project1/assignment/build/googletest/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule"
+		},
+		{
+			"file" : "/home/ajchler/ivs/project1/assignment/build/googletest/googletest-prefix/src/googletest-stamp/googletest-download.rule"
+		},
+		{
+			"file" : "/home/ajchler/ivs/project1/assignment/build/googletest/googletest-prefix/src/googletest-stamp/googletest-update.rule"
+		},
+		{
+			"file" : "/home/ajchler/ivs/project1/assignment/build/googletest/googletest-prefix/src/googletest-stamp/googletest-patch.rule"
+		},
+		{
+			"file" : "/home/ajchler/ivs/project1/assignment/build/googletest/googletest-prefix/src/googletest-stamp/googletest-configure.rule"
+		},
+		{
+			"file" : "/home/ajchler/ivs/project1/assignment/build/googletest/googletest-prefix/src/googletest-stamp/googletest-build.rule"
+		},
+		{
+			"file" : "/home/ajchler/ivs/project1/assignment/build/googletest/googletest-prefix/src/googletest-stamp/googletest-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest"
+		],
+		"name" : "googletest"
+	}
+}

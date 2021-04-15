@@ -1,0 +1,3 @@
+/home/ajchler/ivs/project1/assignment/build/googletest/CMakeFiles/rebuild_cache.dir
+/home/ajchler/ivs/project1/assignment/build/googletest/CMakeFiles/edit_cache.dir
+/home/ajchler/ivs/project1/assignment/build/googletest/CMakeFiles/googletest.dir
